@@ -6,7 +6,8 @@ The dashboard provides a clear picture of business growth, profitability, and cu
 
 
 ## 📷 Dashboard Preview
-![Image Alt](https://github.com/the-vedant-gupta/Task2-ElevateLabs-/blob/main/Dashboard.jpg?raw=true)
+![Superstore Dashboard](Dashboard.jpg)
+
 
 ## 🔎 Overview
 The dashboard highlights:
