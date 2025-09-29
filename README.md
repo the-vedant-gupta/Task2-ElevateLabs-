@@ -4,11 +4,9 @@
 This project is a **Power BI dashboard** built on Superstore dataset to analyze key business metrics like sales, profit, returned orders, and product performance.  
 The dashboard provides a clear picture of business growth, profitability, and customer behavior.
 
----
 
 ## 📷 Dashboard Preview
-![Superstore Dashboard](https://github.com/the-vedant-gupta/Task2-ElevateLabs-/blob/main/Dashboard.jpg?raw=true)
----
+![Image Alt](https://github.com/the-vedant-gupta/Task2-ElevateLabs-/blob/main/Dashboard.jpg?raw=true)
 
 ## 🔎 Overview
 The dashboard highlights:
