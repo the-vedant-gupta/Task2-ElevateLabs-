@@ -1,61 +1,42 @@
-```markdown
-# 📊 Superstore Analytics Dashboard
+# 📊 Superstore Sales Analytics Dashboard
 
-This project is a **Power BI dashboard** built on Superstore dataset to analyze key business metrics like sales, profit, returned orders, and product performance.  
-The dashboard provides a clear picture of business growth, profitability, and customer behavior.
+This project contains a **Power BI dashboard** built on Superstore dataset to analyze **sales, profit, returned orders, and product performance**.  
+
+## 🔍 Overview
+The dashboard provides insights into:
+- **Total Sales, Profit, and % Returned Orders**
+- **Year-over-Year Sales Growth**
+- **Profit by Product Categories**
+- **Sales Trends Over Time**
+- **Profit Distribution by States**
+- **Sales Contribution by Customer Segments**
+
+## 🖼️ Dashboard Preview
+![Superstore Sales Dashboard](Dashboard.jpg)
+
+## 🚀 Key Features
+- Interactive Power BI visualizations  
+- Comparative analysis with previous year’s performance  
+- Product-wise and region-wise breakdown  
+- Clean and easy-to-understand layout  
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Data visualization  
+- **Superstore Dataset** – Sample retail dataset  
+- **GitHub** – Version control and sharing  
 
 
-## 📷 Dashboard Preview
-![Superstore Dashboard](Dashboard.jpg)
-
-
-## 🔎 Overview
-The dashboard highlights:
-- **Sales & Profit Trends** compared to the previous year  
-- **Returned Orders %** to track customer satisfaction  
-- **Profit by Product Category** to identify top-performing and underperforming items  
-- **Geographical Performance** through profit by states  
-- **Sales Segmentation** for deeper business insights  
-
----
-
-## ⚙️ Tools Used
-- **Power BI**: For data modeling, visualization, and storytelling  
-- **Excel / CSV Dataset**: Superstore dataset used for analysis  
-- **GitHub**: Version control and project showcase  
-
----
-
-## 🚀 Key Insights
-- Sales increased by **47.16%** compared to the previous year.  
-- Profit improved by **48.85%**, with Technology being the most profitable segment.  
-- Returned orders dropped slightly, improving operational efficiency.  
-- California and New York contributed the highest profit margins.  
-
----
-
-## 📂 Repository Structure
-```
-
-📁 Superstore-Dashboard
-┣ 📊 Dashboard.pbix
-┣ 🖼️ Dashboard.jpg
-┣ 📄 README.md
-┗ 📄 Dataset.csv
-
-```
+## 📈 Insights
+- **Sales increased by 47.16% compared to the previous year.**  
+- **Profit margin improved by 48.85%.**  
+- **Returned orders decreased slightly (-2.95%).**  
+- **Technology products generated the highest profit.**  
+- **Consumer segment contributed the most to sales.**  
 
 ---
 
-## 🔗 How to View
-1. Download the `.pbix` file and open it in **Power BI Desktop**  
-2. Or explore the dashboard screenshots in this repository  
+💡 This project demonstrates how **data visualization** can uncover trends and help businesses make informed decisions.  
 
 ---
+👤 **Created by:** Vedant Gupta
 
-## ✨ Author
-Created by **Vedant Gupta** 👨‍💻  
-📧 [Email](mailto:vedantgupta8784@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | 🐙 [GitHub](https://github.com/YOUR-GITHUB)
-
----
-```
